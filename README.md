@@ -2,6 +2,13 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daniyalumer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniyalumer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <img align="right" height="150" src="https://fal.media/files/monkey/0HJB2WfkT4USK83lRfmu4.jpeg"  />
 
 ###
@@ -119,10 +126,14 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/daniyalumer/daniyalumer/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
-  <a href="https://open.spotify.com/user/daniyal_u">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=daniyal_u&count=5" alt="Spotify recently played"  />
-  </a>
+  <img src="https://profile-counter.glitch.me/daniyalumer/count.svg?"  />
 </div>
 
 ###
