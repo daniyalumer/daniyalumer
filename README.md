@@ -140,3 +140,9 @@
 </picture>
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/daniyalumer/count.svg?"  />
+</div>
+
+###
