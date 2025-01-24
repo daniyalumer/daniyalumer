@@ -1,4 +1,4 @@
-<h2 align="left">Hey there! 👋 My name’s Daniyal Umer Haral, and I’m a passionate AI/ML/Software Engineer from Pakistan.</h2>
+<h2 align="left">Hey there! 👋 My name’s Daniyal Umer Haral, and I’m a passionate AI/ML/Software Engineer from Pakistan 🇵🇰.</h2>
 
 ###
 
